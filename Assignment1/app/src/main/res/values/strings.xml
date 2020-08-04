@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DiceSimulator</string>
+    <string name="roll">Roll</string>
+    <string name="settings">Settings</string>
+
+    <!-- Sync Preferences -->
+    <string name="number_of_dice">Number of Dice:</string>
+    <string name="sides">Number of Sides:</string>
+    <string name="done">Done</string>
+    <string name="defaultNumDice">""</string>
+    <string name="defaultSides">""</string>
+    <string name="total">Total:</string>
+    <string name="dice_set">Dice Set:</string>
+    <string name="_1d6">1d6</string>
+    <string name="_0">0</string>
+</resources>
